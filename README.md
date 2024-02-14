@@ -1,5 +1,7 @@
 <h1 align="center">Atmos Hardware🪐</h1>
 
+Atmos Harware is used only for educational purposes and was not meant for any harm!
+This is a Arduino colorbot which uses only Arduino without the help of USB host shield, by spoofing the real mouse thus hiding from the anti - cheat.
 
 # 🛠 Requirements
 
@@ -25,7 +27,7 @@ Before starting the software you need to do two very important things:
 > [!IMPORTANT]
 > If it asks you for a serial key join our Discord. <strong>We give the keys free for this software!</strong>
 
-[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/9GUXfFPzbJ)
+[![Discord](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/9GUXfFPzbJ) or (https://discord.gg/9GUXfFPzbJ)
 
 > [!NOTE]
 > If you don't know which one of the VID and PID numbers are on your real mouse, disconnect everything and leave one the mouse. Open the setup and check which one is left.
