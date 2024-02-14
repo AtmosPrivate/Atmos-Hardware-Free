@@ -3,6 +3,14 @@
 Atmos Harware is used only for educational purposes and was not meant for any harm!
 This is a Arduino colorbot which uses only Arduino without the help of USB host shield, by spoofing the real mouse thus hiding from the anti - cheat.
 
+
+Works with the following methods:
+
+Calling Windows mouse_event functions through Python
+Using external hardware capable of simulating a human interface device, such as an Arduino Leonardo. Can communicate with these boards either through a COM port.
+Some of the features that offers:
+
+
 # 🛠 Requirements
 
 Before starting the software you need to do two very important things:
@@ -31,4 +39,22 @@ Before starting the software you need to do two very important things:
 
 > [!NOTE]
 > If you don't know which one of the VID and PID numbers are on your real mouse, disconnect everything and leave one the mouse. Open the setup and check which one is left.
+
+## FEATURES:
+- [x] Aiming - Customizable
+- [x] Trigger Aim
+- [x] Recoil Control System
+- [x] Smoothing
+- [x] Multiple Aim key Configurable
+- [x] FOV X & Y
+- [x] Speed-Smooth (Speed-Smoothness of the aim)
+- [x] Aim Key (Specific key toggle)
+- [x] X and Y Offsets
+- [x] Config system (Save your own settings)
+
+## UNIQUE FEATURES:
+- [x] Doesn't use COM PORT
+- [x] Auto setup
+- [x] Using undetected methods
+- [x] Great UI
 
