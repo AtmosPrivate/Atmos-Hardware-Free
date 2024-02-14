@@ -53,8 +53,8 @@ Before starting the software you need to do two very important things:
 - [x] Config system (Save your own settings)
 
 ## UNIQUE FEATURES:
-- [x] Doesn't use COM PORT
+- [ ] Doesn't use COM PORT
 - [x] Auto setup
-- [x] Using undetected methods
+- [ ] Using undetected methods
 - [x] Great UI
 
