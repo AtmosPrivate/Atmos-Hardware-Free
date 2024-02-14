@@ -15,7 +15,7 @@ Some of the features that offers:
 
 Before starting the software you need to do two very important things:
 
-- Make sure you have Arduino Leonardo R3 ATMEGA32U4.
+- Make sure you have <strong>Arduino Leonardo R3 ATMEGA32U4</strong>.
 - Download the Zip file from the repository and extract in a folder(at the end you will need to have "<strong>1.ico, config.ini, setup.exe</strong>").
 
 # :joystick: Setup
